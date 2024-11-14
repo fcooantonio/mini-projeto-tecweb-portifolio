@@ -1,5 +1,6 @@
-# Mini Projeto 1 - TecWeb - Portifólio
+# Mini Projeto - TecWeb - Portifólio
 
+## Parte 1
 **Desenvolva um portfólio pessoal utilizando apenas HTML, aplicando os conceitos de imagens, listas e âncoras que foram abordados em sala de aula.**
 
 ## Requisitos
@@ -14,3 +15,5 @@ Dentre as funcionaldiades, o portifólio deverá ter:
 4. Inovação: adicione uma página com algum outro atributo que você julgue relevante mencionar no seu portifólio.
 
 ![Gif do projeto](./src/img/projeto.gif)
+
+## Parte 2
