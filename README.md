@@ -17,3 +17,5 @@ Dentre as funcionaldiades, o portifólio deverá ter:
 ![Gif do projeto](./src/img/projeto.gif)
 
 ## Parte 2
+
+**Aplique os conceitos de CSS, inline, interno ou externo para estilizar as páginas.**
